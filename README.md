@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I have been programming for over ten years, during which I have learned a wide diversity of languages, from hardware chip design to web technologies, including scripting and low-level.
+
+I define myself as an Ocaml Zealot 🐫⚔️
+
+I'm open to work on open-source projects in Rust, OCaml, and Coq.
+
 <!--
 **pewulfman/pewulfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
